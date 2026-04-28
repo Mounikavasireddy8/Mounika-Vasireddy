@@ -1,51 +1,33 @@
-## 👋 Hi, I’m Mounika Vasireddy
+# Hi, I am Mounika Vasireddy 👋
 
-Aspiring Cloud Engineer with hands-on experience in designing and deploying AWS architectures.  
-Focused on Cloud Support, Cloud Operations, and Junior Cloud Engineer roles.
+B.Tech Computer Science Graduate | AWS Cloud & DevOps Engineer
+📍 Andhra Pradesh, India
 
----
+## About Me
+Passionate about cloud infrastructure and DevOps. 
+Hands-on experience with Docker containerization, 
+Terraform Infrastructure as Code, and AWS deployments.
 
-## 🛠️ Skills
+## Skills
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![nginx](https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white)
 
-**AWS Services**
-- EC2, VPC, ALB, Auto Scaling
-- RDS, IAM (basics), CloudWatch
+## Projects
+| Project | Tech | Description |
+|---|---|---|
+| [terraform-aws-final-project](https://github.com/Mounikavasireddy8/terraform-aws-final-project) | Terraform, AWS | Complete AWS infra — VPC, EC2, Docker, S3 |
+| [cloudops-dashboard](https://github.com/Mounikavasireddy8/cloudops-dashboard) | Docker, EC2 | Portfolio deployed on AWS EC2 via SSH |
+| [aws-high-availability-web-app](https://github.com/Mounikavasireddy8/aws-high-availability-web-app) | EC2, ALB, ASG | Multi-AZ HA architecture |
+| [aws-secure-3-tier-architecture](https://github.com/Mounikavasireddy8/aws-secure-3-tier-architecture) | VPC, RDS | Secure 3-tier AWS architecture |
 
-**Networking**
-- Public & Private Subnets
-- Route Tables
-- Internet Gateway & NAT Gateway
+## Certifications & Training
+- Docker — 14 days hands-on — 96% test score
+- Terraform — 14 days hands-on — 100% test score
+- AWS Cloud Practitioner Essentials (AWS Skill Builder)
 
-**Security**
-- Security Groups
-- IAM users and roles (basic)
-- Least privilege access
-
----
-
-## 📂 Projects
-
-### 🔹 Highly Available Web Application on AWS  
-- Built a multi-AZ architecture using EC2, ALB, and Auto Scaling  
-- Ensured high availability and fault tolerance  
-
-👉 Repo: https://github.com/Mounikavasireddy8/aws-high-availability-web-app
-
----
-
-### 🔹 Secure 3-Tier Architecture on AWS  
-- Designed Web, App, and Database tiers with network isolation  
-- Used private subnets and RDS with no direct internet access  
-
-👉 Repo: https://github.com/Mounikavasireddy8/aws-secure-3-tier-architecture
-
----
-
-## 🎯 Career Objective
-
-Actively seeking opportunities as:
-- Cloud Support Engineer  
-- Junior Cloud Engineer  
-- Cloud Operations Engineer  
-
-I am continuously improving my AWS skills and building real-world cloud projects.
+## Contact
+📧 vasireddymounikachowdary@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/mounikavasireddy)
